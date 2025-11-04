@@ -1,46 +1,79 @@
 # 🔗如何连接和使用钱包
 
-## 如何连接和使用钱包
+## 👛 如何连接和使用您的钱包
 
-### 获取gas费（XOC） <a href="#huo-qu-gas-fei-xoc" id="huo-qu-gas-fei-xoc"></a>
+本指南将引导您完成 Xone 网络的钱包设置，并获取与 SwapX 交互所需的 Gas (XOC)。
 
-#### 什么是XOC <a href="#shen-me-shi-xoc" id="shen-me-shi-xoc"></a>
+### ⛽ 获取 Gas 费 (XOC)
 
-XOC 是 Xone Chain 的原生加密货币，其运作方式与以太坊生态系统中的 ETH 类似。用户需要使用 XOC 代币与 Xone Chain 进行交互，因为它们用于支付与交易和智能合约交互相关的 Gas 费用。此外，XOC 代币在网络安全模型中发挥着至关重要的作用，用户可以通过 Staking 锁定代币，帮助保护网络并获得相应的奖励；为去中心化金融 (DeFi)、智能合约和跨链应用提供支持；并且在行为价值激励 (BVI) 经济模型中也发挥着重要作用。
+要在 Xone Chain 上执行任何交易或与智能合约交互，您都需要使用 XOC 代币来支付 Gas 费用。
 
-#### 如何获取XOC <a href="#ru-he-huo-qu-xoc" id="ru-he-huo-qu-xoc"></a>
+#### 什么是XOC？
 
-* 在交易所购买： XOC 可在各种中心化交易所 (CEX) 购买，用户可以在这些交易所用法币或其他加密货币兑换 XOC。建议将 XOC 存储在您控制的钱包中，以增强安全性。
-* 通过质押赚取 XOC：用户可以质押 XOC 来维护网络安全并获得质押奖励。您可以将 XOC 委托给质押提供商，也可以运行验证节点来赚取 XOC 奖励。
-* 跨链资产转移： XOC 支持跨链资产转移。您可以将 ETH、USDT 等资产引入 Xone Chain，兑换成 XOC，或在 Xone Chain 生态系统内使用。
-* 参与社区活动：用户还可以通过参与 Xone Chain 生态系统活动来赚取 XOC，例如黑客马拉松、开发者挑战赛、空投等。
+{% hint style="info" %}
+XOC 是 **Xone Chain** 的原生加密货币，其运作方式类似于以太坊（Ethereum）生态系统中的 ETH。
+{% endhint %}
 
-### 添加XOC网络信息 <a href="#tian-jia-xoc-wang-luo-xin-xi" id="tian-jia-xoc-wang-luo-xin-xi"></a>
+用户需要使用 XOC 代币来与 Xone Chain 互动，因为它们用于支付与交易和智能合约互动相关的 Gas 费用。
 
-网络名称： Xone Mainnet
+此外，XOC 代币在以下方面发挥着至关重要的作用：
 
-RPC 网址： [https://rpc.xone.org](https://rpc.xone.org/)
+* **网络安全：** 用户可以通过 Staking 锁定代币，以帮助保护网络并获得相应奖励。
+* **生态系统支持：** 为去中心化金融（DeFi）、智能合约和跨链应用提供支持。
+* **激励模型：** 在行为价值激励（BVI）经济模型中同样扮演重要角色。
 
-链 ID： 3721 (0xe89)
+#### 如何获取XOC
 
-符号： XOC
+您可以通过多种方式获取 XOC：
 
-区块浏览器网址：[https://xscscan.com/](https://xscscan.com/)
+* **🛒 在交易所购买：** XOC 可以在各种中心化交易所（CEX）上购买，用户可以在其中用法定货币或其他加密货币兑换 XOC。
+  * _（建议将 XOC 存储在您控制的钱包中以增强安全性。）_
+* **🔒 通过 Staking 赚取XOC：** 用户可以质押 XOC 以维护网络安全并获得 Staking 奖励。您可以将 XOC 委托给 Staking 提供商或运行验证节点来赚取 XOC 奖励。
+* **🌉 跨链资产转移：** XOC 支持跨链资产转移。您可以将 ETH 和 USDT 等资产引入 Xone Chain，兑换成 XOC，或在 Xone Chain 生态系统中使用它们。
+* **🎉 参与社区活动：** 用户还可以通过参与 Xone Chain 生态系统活动（例如黑客马拉松、开发者挑战赛、空投等）来赚取 XOC。
 
-### 在钱包中使用 <a href="#zai-qian-bao-zhong-shi-yong" id="zai-qian-bao-zhong-shi-yong"></a>
+***
 
-让我们以Metamask为例子开始吧：
+### 🌐 添加 XOC 网络信息
 
-* 打开您的Metamask网络扩展 ![alt text](https://docs.swapx.exchange/zh/assets/images/image-5-ff1619a052b8c7e40f1ec26ad5315a00.png)
-* 点击左上角网络按钮，点击添加自定义网络 ![alt text](https://docs.swapx.exchange/zh/assets/images/image-6-2c37979cebfd24aae8172b30083973a5.png)
-* 添加网络完成后，就可以充值XOC啦，我们的各项上链操作都需要gas费哦～所有钱包都需要添加Xone主网后才能继续操作。
-* 现在让我们来到[SwapX](https://swapx.exchange/)，将钱包连接上就可以开启swap新世界啦。
+在使用 XOC 或在 Xone Chain 上与 SwapX 互动之前，您必须将该网络添加到您的钱包中。
 
-### SwapX 支持链 <a href="#swapx-zhi-chi-lian" id="swapx-zhi-chi-lian"></a>
+{% hint style="success" %}
+**Xone 主网详情**
 
-* Xone Chain(Xone)
-* 以太坊链（ETH）：即将开放
-* 币安智能链（BSC）：即将开放
-* 波场链（Tron）:即将开放
+* **网络名称 (Network Name):** Xone Mainnet
+* **RPC URL:** `https://rpc.xone.org`
+* **链 ID (Chain ID):** 3721 (0xe89)
+* **符号 (Symbol):** XOC
+* **区块浏览器 URL (Block Browser URL):** `https://xscscan.com/`
+{% endhint %}
 
-\
+#### 在钱包中使用 (以 Metamask 为例)
+
+我们以 Metamask 为例：
+
+**第 1 步：** 打开您的 Metamask 网络扩展。&#x20;
+
+<div data-full-width="false" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
+
+**第 2 步：** 点击左上角的网络按钮，然后点击“Add custom network” (添加自定义网络)。&#x20;
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure></div>
+
+**第 3 步：** 添加网络后，点击保存，您就可以充值 XOC 主网了。
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure></div>
+
+{% hint style="warning" %}
+我们所有的链上操作都需要 Gas fee 哦～ 所有钱包都需要添加 Xone 主网后才能继续使用。
+{% endhint %}
+
+**第 4 步：** 现在我们前往 **SwapX**，连接钱包开启 swap 新世界。
+
+***
+
+### ⛓️ SwapX 支持的链
+
+* ✅ **Xone Chain (Xone)**
+* ⏳ **Ethereum Chain (ETH):** coming soon (即将推出)
+* ⏳ **Binance Smart Chain (BSC):** coming soon (即将推出)

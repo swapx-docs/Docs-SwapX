@@ -27,24 +27,24 @@ SwapX-V2流动性池协议，代币兑换的默认交易费用为 **0.3%**。此
 
     * 点击 **“Create”** 按钮。
 
-    <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
+    <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 3.  **选择代币对**
 
     * 使用输入框选择您要添加流动性的两个代币。
     * _示例：_ 选择 **XOC** 和 **USDT**。
 
-    <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure></div>
+    <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure></div>
 4.  **输入存入金额**
 
     * 在 **“存入金额（Deposit Amount）”** 下，输入其中一个代币的数量。另一个代币的数量将 **自动计算并填充**，以维持当前的市场比例。
     * **余额不足：** 如果您其中一个代币余额不足，您将看到 **“余额不足（Insufficient Balance）”** 错误提示，且按钮将变为灰色。请降低输入金额，或使用 **“MAX”** 按钮填充最大可用值。
 
-    <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure></div>
+    <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure></div>
 5.  确认创建
 
     * 确认创建流动性池的存款金额，确认无误后点击“**创建（Create）**”
 
-    <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure></div>
+    <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure></div>
 6.  **最终钱包确认**
 
     * 您的钱包将要求您进行最终交易确认。请在钱包中确认您的交易。
