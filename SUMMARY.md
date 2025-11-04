@@ -46,7 +46,7 @@
 
 ## developer
 
-* [SWAPX-V2](developer/swapx-v2/README.md)
+* [⚾️SWAPX-V2](developer/swapx-v2/README.md)
   * [⚖️ Fee Structure](developer/swapx-v2/fee-structure.md)
   * [🏷️ How is the Price Determined?](developer/swapx-v2/how-is-the-price-determined.md)
   * [⚠️ Considerations When Building on SwapX](developer/swapx-v2/considerations-when-building-on-swapx.md)
@@ -56,6 +56,7 @@
   * [🌐 Ecosystem Participants](developer/swapx-v2/ecosystem-participants.md)
   * [💡 How Uniswap Works](developer/swapx-v2/how-uniswap-works.md)
   * [⚙️ SwapX V2 Smart Contracts](developer/swapx-v2/swapx-v2-smart-contracts.md)
-* [SWAPX-V3](developer/swapx-v3/README.md)
-  * [Page](developer/swapx-v3/page.md)
+* [🥎SWAPX-V3](developer/swapx-v3/README.md)
+  * [🏂Single-Hop Swaps](developer/swapx-v3/single-hop-swaps.md)
+  * [🪂Multi-Hop Swaps (V3)](developer/swapx-v3/multi-hop-swaps-v3.md)
 * [🧑‍💻SDK](developer/sdk.md)

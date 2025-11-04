@@ -1,11 +1,6 @@
 ---
-cover: ../../.gitbook/assets/GzMpfFTbwAAaxsu.jpeg
-coverY: 0
 layout:
   width: default
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
@@ -22,51 +17,80 @@ layout:
 
 # 🔗connect  your wallet to SwapX
 
-## How to connect and use your wallet
+## 👛 How to Connect and Use Your Wallet
 
-### Get gas fees (XOC) <a href="#get-gas-fees-xoc" id="get-gas-fees-xoc"></a>
+This guide covers setting up your wallet with the Xone network and acquiring the necessary gas (XOC) to interact with SwapX.
 
-#### What is XOC <a href="#what-is-xoc" id="what-is-xoc"></a>
+### ⛽ Get Gas Fees (XOC)
 
-XOC is the native cryptocurrency of Xone Chain, which operates similarly to ETH in the Ethereum ecosystem. Users need to use XOC tokens to interact with Xone Chain, as they are used to pay for gas fees associated with transactions and smart contract interactions. In addition, XOC tokens play a vital role in the network security model, where users can lock tokens through staking to help protect the network and receive corresponding rewards; provide support for decentralized finance (DeFi), smart contracts, and cross-chain applications; and also play an important role in the behavioral value incentive (BVI) economic model.
+To perform any transaction or interact with smart contracts on Xone Chain, you must use XOC tokens to pay for gas fees.
 
-#### How to get XOC <a href="#how-to-get-xoc" id="how-to-get-xoc"></a>
+#### What is XOC?
 
-* Buy on exchanges: XOC can be purchased on various centralized exchanges (CEX), where users can exchange XOC with fiat or other cryptocurrencies. It is recommended to store XOC in a wallet that you control for enhanced security.
-* Earn XOC through staking: Users can stake XOC to maintain network security and receive staking rewards. You can delegate XOC to a staking provider or run a validation node to earn XOC rewards.
-* Cross-chain asset transfer: XOC supports cross-chain asset transfer. You can introduce assets such as ETH and USDT into Xone Chain, exchange them for XOC, or use them within the Xone Chain ecosystem.
-* Participate in community activities: Users can also earn XOC by participating in Xone Chain ecosystem activities, such as hackathons, developer challenges, airdrops, etc.
+{% hint style="info" %}
+XOC is the native cryptocurrency of **Xone Chain**, operating similarly to ETH in the Ethereum ecosystem.
+{% endhint %}
 
-### Add XOC network information <a href="#add-xoc-network-information" id="add-xoc-network-information"></a>
+Users must use XOC tokens to interact with Xone Chain, as they are used to pay for gas fees associated with transactions and smart contract interactions.
 
-Network name: Xone Mainnet
+Additionally, XOC tokens play a vital role in:
 
-RPC URL: [https://rpc.xone.org](https://rpc.xone.org/)
+* **Network Security:** Users can lock (stake) tokens to help protect the network and receive corresponding rewards.
+* **Ecosystem Support:** Providing support for decentralized finance (DeFi), smart contracts, and cross-chain applications.
+* **Incentives:** Playing an important role in the behavioral value incentive (BVI) economic model.
 
-Chain ID: 3721 (0xe89)
+#### How to get XOC
 
-Symbol: XOC
+You can acquire XOC through several methods:
 
-Block browser URL: [https://xscscan.com/](https://xscscan.com/)
+* **🛒 Buy on Exchanges:** XOC can be purchased on various centralized exchanges (CEX), where users can exchange XOC with fiat or other cryptocurrencies.
+  * _(It is recommended to store XOC in a wallet that you control for enhanced security.)_
+* **🔒 Earn XOC through Staking:** Users can stake XOC to maintain network security and receive staking rewards. You can delegate XOC to a staking provider or run a validation node to earn XOC rewards.
+* **🌉 Cross-chain Asset Transfer:** XOC supports cross-chain asset transfer. You can introduce assets (like ETH and USDT) into Xone Chain, exchange them for XOC, or use them within the Xone Chain ecosystem.
+* **🎉 Participate in Community Activities:** Users can also earn XOC by participating in Xone Chain ecosystem activities, such as hackathons, developer challenges, and airdrops.
 
-### Use in wallet <a href="#use-in-wallet" id="use-in-wallet"></a>
+***
+
+### 🌐 Add Xone Network Information
+
+Before you can use XOC or interact with SwapX on Xone Chain, you must add the network to your wallet.
+
+{% hint style="success" %}
+**Xone Mainnet Details**
+
+* **Network Name:** Xone Mainnet
+* **RPC URL:** `https://rpc.xone.org`
+* **Chain ID:** 3721 (0xe89)
+* **Symbol:** XOC
+* **Block Browser URL:** `https://xscscan.com/`
+{% endhint %}
+
+#### Use in Wallet (Example: Metamask)
 
 Let's start with Metamask as an example:
 
-* Open your Metamask network extension
+**Step 1:** Open your Metamask network extension.&#x20;
 
-![alt text](https://docs.swapx.exchange/assets/images/image-12-d7a40572c4223757bb0585107c2da455.png)
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
 
-* Click the network button in the upper left corner and click Add custom network
+**Step 2:** Click the network button in the upper left corner and click "Add custom network".&#x20;
 
-![alt text](https://docs.swapx.exchange/assets/images/image-13-d5f39b7703d70981db8335e1b3ae1646.png)
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
 
-* After adding the network, you can recharge XOC mainnet. All our chain operations require gas fees\~ All wallets need to add the Xone mainnet before they can continue.
-* Now let's go to [SwapX](https://swapx.exchange/), connect the wallet to open a new world of swap.
+**Step 3:** After adding the network, you can recharge (deposit) XOC for the mainnet.
 
-### SwapX supported chains <a href="#swapx-supported-chains" id="swapx-supported-chains"></a>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure></div>
 
-* Xone Chain (Xone)
-* Ethereum Chain (ETH): coming soon
-* Binance Smart Chain (BSC): coming soon
-* Tron Chain (Tron): coming soon
+{% hint style="warning" %}
+All our chain operations require gas fees! All wallets must add the Xone mainnet before they can continue.
+{% endhint %}
+
+**Step 4:** Now let's go to **SwapX**, connect the wallet to open a new world of swap.
+
+***
+
+### ⛓️ SwapX Supported Chains
+
+* ✅ **Xone Chain (Xone)**
+* ⏳ **Ethereum Chain (ETH):** coming soon
+* ⏳ **Binance Smart Chain (BSC):** coming soon

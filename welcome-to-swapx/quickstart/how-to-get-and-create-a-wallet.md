@@ -1,11 +1,6 @@
 ---
-cover: ../../.gitbook/assets/GzwViM-aUAAAnBm.jpeg
-coverY: 0
 layout:
   width: default
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:

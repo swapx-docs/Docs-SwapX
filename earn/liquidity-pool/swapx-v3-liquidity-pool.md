@@ -36,26 +36,26 @@ To provide liquidity, you need to stake a certain amount of a token pair.
 * Navigate to the **Pools** page on SwapX.
 * Click the **"Connect Wallet"** button in the top right corner.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure></div>
 
 **2. Start Adding Liquidity 🛠️**
 
 * Click the **"Create"** button (or "Add Liquidity") to start the process.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 **3. Select the Token Pair 🪙**
 
 * Use the input fields to select the two tokens for which you wish to provide liquidity.
 * _Example:_ Select **XOC** and **USDT**.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **4. Confirm/Customize Fee Tier 💲**
 
 * If needed, select the desired fee percentage from the available options: **0.05%**, **0.3%**, or **1%**.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 **5. Enter Deposit Amounts and Set Price Range 📐**
 
