@@ -1,0 +1,2 @@
+# 🪙SWAPX Tokenomics
+
