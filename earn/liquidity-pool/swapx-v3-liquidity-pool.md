@@ -42,14 +42,14 @@ To provide liquidity, you need to stake a certain amount of a token pair.
 
 * Click the **"Create"** button (or "Add Liquidity") to start the process.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 **3. Select the Token Pair 🪙**
 
 * Use the input fields to select the two tokens for which you wish to provide liquidity.
 * _Example:_ Select **XOC** and **USDT**.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **4. Confirm/Customize Fee Tier 💲**
 

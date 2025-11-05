@@ -1,6 +1,10 @@
-# 🔄 Basic Concepts of Exchange
+---
+description: Swap
+---
 
-## 🔄 Basic Concepts of Exchange
+# 🔄 Basic Concepts of Swap
+
+## 🔄 Basic Concepts of Swap
 
 Understanding the core mechanisms of SwapX will help you navigate decentralized trading more effectively.
 

@@ -19,7 +19,7 @@
 ## Trade
 
 * [🔄 Swap](trade/swap/README.md)
-  * [🔄 Basic Concepts of Exchange](trade/swap/basic-concepts-of-exchange.md)
+  * [🔄 Basic Concepts of Swap](trade/swap/basic-concepts-of-swap.md)
   * [💸 What is Trade](trade/swap/what-is-trade.md)
   * [🚀 How to Trade](trade/swap/how-to-trade.md)
   * [💧 Liquidity Provider Fees](trade/swap/liquidity-provider-fees.md)

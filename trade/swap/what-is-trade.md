@@ -4,7 +4,7 @@ description: Trade
 
 # 💸 What is Trade
 
-## Token Exchange
+## Token Swap
 
 Token exchange on SwapX is a **peer-to-peer asset exchange** achieved entirely through blockchain smart contracts.
 

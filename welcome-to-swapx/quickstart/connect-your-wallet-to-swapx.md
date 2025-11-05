@@ -71,15 +71,15 @@ Let's start with Metamask as an example:
 
 **Step 1:** Open your Metamask network extension.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure></div>
 
 **Step 2:** Click the network button in the upper left corner and click "Add custom network".&#x20;
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 **Step 3:** After adding the network, you can recharge (deposit) XOC for the mainnet.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 All our chain operations require gas fees! All wallets must add the Xone mainnet before they can continue.
