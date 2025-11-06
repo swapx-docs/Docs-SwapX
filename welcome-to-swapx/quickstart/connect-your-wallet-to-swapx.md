@@ -19,11 +19,11 @@ layout:
 
 ## 👛 How to Connect and Use Your Wallet
 
-This guide covers setting up your wallet with the Xone network and acquiring the necessary gas (XOC) to interact with SwapX.
+This guide covers setting up your wallet with the Xone network and acquiring the necessary gas (XOC) to interact with [SwapX](https://swapx.exchange/).
 
 ### ⛽ Get Gas Fees (XOC)
 
-To perform any transaction or interact with smart contracts on Xone Chain, you must use XOC tokens to pay for gas fees.
+To perform any transaction or interact with smart contracts on [Xone Chain](https://docs.xone.org/study/xone), you must use XOC tokens to pay for gas fees.
 
 #### What is XOC?
 

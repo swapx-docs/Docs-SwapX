@@ -40,14 +40,14 @@ Choosing between a mobile or desktop wallet depends on your security and access 
 
 SwapX is compatible with a wide range of popular, secure wallets, ensuring flexibility for all users:
 
-* 🦊 **MetaMask**
-* ⚪ **TokenUp**
-* 🛡️ **Trust Wallet**
-* ⚫ **OKX Wallet**
-* 🟦 **Coinbase Wallet**
-* 👻 **phantom**
-* 🟡 **Bitget Wallet**
-* 👛 **TokenPocket**
+* 🦊[ **MetaMask**](https://metamask.io/)
+* ⚪ [**TokenUp**](https://tokenup.org/)
+* 🛡️ [**Trust Wallet**](https://trustwallet.com/?utm_source=cryptwerk)
+* ⚫ [**OKX Wallet**](https://web3.okx.com/zh-hans)
+* 🟦[ **Coinbase Wallet**](https://www.coinbase.com/zh-cn/wallet)
+* 👻 [**phantom**](https://phantom.com/)
+* 🟡[ **Bitget Wallet**](https://web3.bitget.com/en)
+* 👛 [**TokenPocket**](https://www.tokenpocket.pro/)
 
 ### ⚠️ Essential Safety & Setup Notes
 
