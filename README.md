@@ -22,9 +22,9 @@ layout:
 
 # ✨SwapX Product Overview
 
-## 👋 Welcome to SwapX Documentation
+## 👋 Welcome to [SwapX](https://swapx.exchange/) Documentation
 
-SwapX is a decentralized token exchange system built upon the robust Uniswap v2/v3 protocols, designed to offer users a comprehensive digital asset management solution.
+[SwapX](https://swapx.exchange/) is a decentralized token exchange system built upon the robust Uniswap v2/v3 protocols, designed to offer users a comprehensive digital asset management solution.
 
 As a core component of the Xone ecosystem, SwapX transcends traditional DEX functionality by not only providing on-chain token exchange services but also seamlessly integrating fiat currency trading via multiple trusted third-party payment platforms. This integration creates a truly seamless, one-stop cryptocurrency trading environment.
 
@@ -32,11 +32,11 @@ As a core component of the Xone ecosystem, SwapX transcends traditional DEX func
 
 ### 🔄 Core Features: Swap, Trade, & Earn
 
-SwapX is built around three fundamental pillars to provide a powerful and versatile trading experience:
+[SwapX](https://swapx.exchange/) is built around three fundamental pillars to provide a powerful and versatile trading experience:
 
 #### 1. Swap: Decentralized Token Exchange
 
-SwapX offers a secure, transparent, and efficient way to exchange digital assets.
+[SwapX ](https://swapx.exchange/)offers a secure, transparent, and efficient way to exchange digital assets.
 
 * 🔐 True Decentralization: Trade directly from your wallet. You maintain full control of your assets without the need to deposit funds or trust third parties, significantly reducing the security risks associated with centralized platforms.
 * 💸 Competitive Low Fees: Benefit from transaction fees that are more competitive than the industry average, ensuring every trade is more cost-effective.
