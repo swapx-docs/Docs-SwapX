@@ -1,10 +1,12 @@
-# 🤙 Contact Us
+# ☎️Contact Us
 
 ## 🔗 Official Channels & Verification
 
 To ensure you interact with the authentic SwapX community and receive legitimate support, please use the following official channels:
 
 {% embed url="https://linktr.ee/swapx009" %}
+
+
 
 | Channel           | Link                                               | Notes                                       |
 | ----------------- | -------------------------------------------------- | ------------------------------------------- |
