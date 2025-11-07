@@ -8,7 +8,7 @@
   * [🔗如何连接和使用钱包](huan-ying-lai-dao-swapx/kuai-su-kai-shi/ru-he-lian-jie-he-shi-yong-qian-bao.md)
 * [🤙联系我们](huan-ying-lai-dao-swapx/lian-xi-wo-men.md)
 * [👨‍👨‍👦 关于团队](huan-ying-lai-dao-swapx/guan-yu-tuan-dui.md)
-* [✅ 审计](huan-ying-lai-dao-swapx/shen-ji.md)
+* [🛡️审计](huan-ying-lai-dao-swapx/shen-ji.md)
 * [❓常见问题解答](huan-ying-lai-dao-swapx/chang-jian-wen-ti-jie-da.md)
 * [🗃️隐私与政策](huan-ying-lai-dao-swapx/yin-si-yu-zheng-ce/README.md)
   * [🛡️ 隐私协议](huan-ying-lai-dao-swapx/yin-si-yu-zheng-ce/yin-si-xie-yi.md)
