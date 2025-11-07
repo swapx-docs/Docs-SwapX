@@ -28,7 +28,7 @@ Follow these steps to complete a token exchange:
     <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure></div>
 4.  In the **"You receive" section (bottom)**, select the token you wish to buy from its drop-down menu.
 
-    http://googleusercontent.com/image\_generation\_content/3
+
 5.  Enter the amount you wish to exchange in **either** the top ("You pay") or bottom ("You receive") section. The amount in the other section will be automatically estimated.
 
     <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure></div>

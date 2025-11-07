@@ -28,7 +28,7 @@ SwapX utilizes the **AMM model**, contrasting with the Order Book method:
 
 > **SwapX Trading:** Token Exchange on SwapX is a simple method where liquidity comes directly from the **liquidity pools** created on SwapX (`https://swapx.exchange/pools`).
 
-<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure></div>
 
 ### 💸 Exchange Fees
 
@@ -44,7 +44,7 @@ When you swap (trade) tokens on the SwapX exchange, you pay a transaction fee ba
 
 * **Current Status:** There are **currently no protocol fees**.
 * **Future Potential:** A **0.05% protocol fee** may come into effect in the future.
-  * This fee is equivalent to $\frac{1}{6}$ of the 0.30% fee (approximately $16.6\overline{6}%$).
+  * This fee is equivalent to 1/6 of the 0.30% fee (approximately $16.6).
   * **Recipient:** If the `feeTo` address is not the null address (`address(0)`), the fee is valid, and the `feeTo` address is the recipient.
   * **Impact:** This amount **does not affect the fees paid by traders** but does affect the net amount received by liquidity providers, as a fraction of the 0.3% is diverted to the protocol.
 
