@@ -11,7 +11,7 @@
   * [Team](welcome-to-swapx/about-us/team.md)
   * [Brand & Logos](welcome-to-swapx/about-us/brand-and-logos.md)
 * [📰News](welcome-to-swapx/news.md)
-* [🎯Audits](welcome-to-swapx/audits.md)
+* [🛡️Audits](welcome-to-swapx/audits.md)
 * [❓FAQ](welcome-to-swapx/publish-your-docs.md)
 * [🗃️Privacy and terms](welcome-to-swapx/privacy-and-terms/README.md)
   * [🛡️ Privacy Policy](welcome-to-swapx/privacy-and-terms/privacy-policy.md)
